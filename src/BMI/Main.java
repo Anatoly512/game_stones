@@ -1,8 +1,4 @@
-import oop.Car;
-import oop.SportCar;
-import oop.Van;
-import oop.VanNotFoundException;
-
+package BMI;
 
 public class Main {
     //To launch game
